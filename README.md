@@ -36,10 +36,10 @@
 
 ## 📊 GitHub Activity Overview
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damir-Alexis-Chapal&theme=tokyonight)](https://github.com/YOUR-USERNAME)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damir-Alexis-Chapal&theme=tokyonight)](https://github.com/YOUR-USERNAME)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Damir-Alexis-Chapal&theme=tokyonight)](https://github.com/YOUR-USERNAME)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Damir-Alexis-Chapal&theme=tokyonight&utcOffset=-5)](https://github.com/YOUR-USERNAME)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damir-Alexis-Chapal&theme=tokyonight)](https://github.com/Damir-Alexis-Chapal)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damir-Alexis-Chapal&theme=tokyonight)](https://github.com/Damir-Alexis-Chapal)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Damir-Alexis-Chapal&theme=tokyonight)](https://github.com/Damir-Alexis-Chapal)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Damir-Alexis-Chapal&theme=tokyonight&utcOffset=-5)](https://github.com/Damir-Alexis-Chapal)
 
 ---
 
