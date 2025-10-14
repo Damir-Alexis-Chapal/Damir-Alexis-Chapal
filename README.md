@@ -57,7 +57,7 @@
 ## 🌐 Connect with Me
 
 - 📧 Email: dchapalimbaquin2018@gmail.com
-- 🐙 GitHub: [github.com/YOUR-USERNAME](https://github.com/Damir-Alexis-Chapal)
+- 🐙 GitHub: https://github.com/Damir-Alexis-Chapal
 
 ---
 
