@@ -23,7 +23,8 @@
 </div>
 
 ---
-
+![Snake animation](https://github.com/Damir-Alexis-Chapal/Damir-Alexis-Chapal/blob/output/github-contribution-grid-snake.svg)
+---
 ## 🚀 About Me
 
 - 🧠 I love building scalable web applications and learning new technologies.  
