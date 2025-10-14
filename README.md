@@ -32,7 +32,7 @@
 - 🐧 Passionate about clean code, software architecture, and open source.  
 - 💬 Always open to collaboration on interesting projects.  
 
---
+---
 
 ## 📊 GitHub Activity Overview
 
