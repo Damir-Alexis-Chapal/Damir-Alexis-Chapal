@@ -1,13 +1,13 @@
 <!-- Optional banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff)
 
-# 👋 Hi there, I'm **Alexis Chapal**
+# Hi there, I'm **Alexis Chapal**
 
 💻 Backend Developer | ☕ Java Enthusiast | 🌐 Web Developer  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -25,16 +25,16 @@
 ---
 ![Snake animation](https://github.com/Damir-Alexis-Chapal/Damir-Alexis-Chapal/blob/output/github-contribution-grid-snake.svg)
 ---
-## 🚀 About Me
+## About Me
 
-- 🧠 I love building scalable web applications and learning new technologies.  
-- 🛠️ Currently improving my skills in **Spring Boot** and backend development.  
-- 🐧 Passionate about clean code, software architecture, and open source.  
-- 💬 Always open to collaboration on interesting projects.  
+- I love building scalable web applications and learning new technologies.  
+- Currently improving my skills in **Spring Boot** and backend development.  
+- Passionate about clean code, software architecture, and open source.  
+- Always open to collaboration on interesting projects.  
 
 ---
 
-## 📊 GitHub Activity Overview
+## GitHub Activity Overview
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damir-Alexis-Chapal&theme=tokyonight)](https://github.com/Damir-Alexis-Chapal)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damir-Alexis-Chapal&theme=tokyonight)](https://github.com/Damir-Alexis-Chapal)
@@ -43,7 +43,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -54,10 +54,10 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-- 📧 Email: dchapalimbaquin2018@gmail.com
-- 🐙 GitHub: https://github.com/Damir-Alexis-Chapal
+- Email: dchapalimbaquin2018@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alexis-chapal-344a282b4/
 
 ---
 
