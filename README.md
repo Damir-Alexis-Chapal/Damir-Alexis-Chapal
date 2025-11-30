@@ -48,17 +48,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Damir-Alexis-Chapal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damir-Alexis-Chapal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
----
-
 ## Connect with Me
 
 - Email: dchapalimbaquin2018@gmail.com
