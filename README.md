@@ -19,6 +19,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
 
@@ -27,10 +31,11 @@
 ---
 ## About Me
 
-- I love building scalable web applications and learning new technologies.  
-- Currently improving my skills in **Spring Boot** and backend development.  
-- Passionate about clean code, software architecture, and open source.  
-- Always open to collaboration on interesting projects.  
+- I enjoy building scalable and efficient web applications, always seeking to apply best practices and modern development techniques.
+- Currently strengthening my expertise in Spring Boot, backend architectures, and API development.
+- Experienced working with Java, Angular, REST APIs, Docker, Postman, and relational databases such as MySQL and PostgreSQL.
+- Passionate about clean code, software design patterns, and continuous learning.
+- Open to collaborating on innovative projects, contributing solutions, and working in dynamic, team-oriented environments. 
 
 ---
 
